@@ -14,7 +14,7 @@
 - Connecting with fellow developers and tech enthusiasts.
 
 📬 How to Reach Me:
-- Let's chat! Drop me a message on [LinkedIn](https://www.linkedin.com/in/swaraj-patil-b5288a253/) or [Twitter] (@71swaraj) .
+- Let's chat! Drop me a message on [LinkedIn](https://www.linkedin.com/in/swaraj-patil-b5288a253/) or [Twitter] ([@71swaraj](https://twitter.com/71swaraj)) .
 
 ⚡ Fun Fact:
 - When not coding, you'll find me Painting.
