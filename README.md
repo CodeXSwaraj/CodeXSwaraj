@@ -1,7 +1,7 @@
 ### Hi there, I'm Swaraj - aka CodeXSwaraj 👋
 
 👨‍💻 About Me:
-- AIDS Engineering student passionate about turning ideas into reality through code.
+- Artificial Intelligence & Data Science Engineering student passionate about turning ideas into reality through code.
 - Coding enthusiast with a love for problem-solving and innovation.
 
 🚀 What I'm Up To:
@@ -14,7 +14,7 @@
 - Connecting with fellow developers and tech enthusiasts.
 
 📬 How to Reach Me:
-- Let's chat! Drop me a message on [LinkedIn](https://www.linkedin.com/in/swaraj-patil-b5288a253/) or [Twitter] ([@71swaraj](https://twitter.com/71swaraj)) .
+- Let's chat! Drop me a message on [LinkedIn](https://www.linkedin.com/in/swaraj-patil-b5288a253/) or [Twitter] ([@codexswaraj](https://twitter.com/codexswaraj)) .
 
 ⚡ Fun Fact:
 - When not coding, you'll find me Painting.
